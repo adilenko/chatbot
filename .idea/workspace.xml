@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84277700-e9da-438b-9bac-a0007a61b1a6" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1auWe1SyVslRRlib9M4vyVn2C4c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.todobot">
+    <configuration name="chatbot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chatbot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dbhelper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbhelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="todobot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/todobot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.chatbot" />
+      <item itemvalue="Python.dbhelper" />
+      <item itemvalue="Python.todobot" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.todobot" />
+        <item itemvalue="Python.dbhelper" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.chatbot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84277700-e9da-438b-9bac-a0007a61b1a6" name="Default" comment="" />
+      <created>1575814186084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575814186084</updated>
+      <workItem from="1587586052583" duration="1858000" />
+      <workItem from="1587676211203" duration="10608000" />
+      <workItem from="1587978498012" duration="1997000" />
+      <workItem from="1588257231370" duration="3013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2005" height="323" key="GridCell.Tab.0.bottom" timestamp="1587854335117">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="323" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587854335117" />
+    <state width="2005" height="323" key="GridCell.Tab.0.center" timestamp="1587854335116">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="323" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587854335116" />
+    <state width="2005" height="323" key="GridCell.Tab.0.left" timestamp="1587854335116">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="323" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587854335116" />
+    <state width="2005" height="323" key="GridCell.Tab.0.right" timestamp="1587854335117">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="323" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587854335117" />
+    <state width="2005" height="323" key="GridCell.Tab.1.bottom" timestamp="1587854335028">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="323" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587854335028" />
+    <state width="2005" height="323" key="GridCell.Tab.1.center" timestamp="1587854335027">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="323" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587854335027" />
+    <state width="2005" height="323" key="GridCell.Tab.1.left" timestamp="1587854335027">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="323" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587854335027" />
+    <state width="2005" height="323" key="GridCell.Tab.1.right" timestamp="1587854335027">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="323" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587854335027" />
+    <state x="533" y="199" key="SettingsEditor" timestamp="1587586078791">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="533" y="199" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1587586078791" />
+    <state x="719" y="288" width="609" height="536" key="find.popup" timestamp="1587852970501">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="719" y="288" width="609" height="536" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1587852970501" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dbhelper.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="rows[0][0]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chatbot$todobot.coverage" NAME="todobot Coverage Results" MODIFIED="1587854334981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
